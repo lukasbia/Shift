@@ -1,0 +1,9 @@
+this folddr contain every stuff needed
+for shift low level compiler(sllc) which
+is a compiler that compiles down to 
+hexadecimal, assembly, web assembly, and 
+other chips language like arm and x86
+we do not give permission for our compiler
+to be use by you or other organization 
+report a issue if you found someone using 
+sllc with mo permit 
